@@ -1,0 +1,56 @@
+
+#menu{
+    background-color:black;
+    color: hotpink;
+    text-transform: uppercase;
+    font-weight: 200;
+    text-align: center;
+    font-size: 80px;
+    text-shadow: 3px 3px white;
+}
+#corpo{
+font-size: 30px;
+font-weight: 200;
+background-color: black;
+text-align: center;
+color: hotpink;
+
+}
+#lista{
+font-size: 30px;
+text-align: left;
+}
+body{
+    background-color: black;
+    
+}
+
+#serena img{
+    width: 400px;
+    inline-size: ;
+    display: block;
+    margin: auto;
+
+}
+#serena p{
+    font-size: 30px;
+    color: hotpink;
+    text-align: center;
+    font-style: italic;
+}
+#serena h1{
+    color: hotpink;
+    text-shadow: 1px 1px white;
+    text-align: center;
+}
+#lista ul{
+    list-style: none;
+}
+a{
+    color: hotpink;
+}
+#blair{
+    color: hotpink;
+    text-shadow: 1px 1px white;
+    text-align: center;
+}
