@@ -1,0 +1,29 @@
+#menu{
+background-color: black;
+color: grey;
+text-align: center;
+text-transform: uppercase;
+font-weight: 200;
+text-align: center;
+font-size: 80px;
+text-shadow: 3px 3px white;
+}
+#corpo{
+color: grey;
+font-size: 30px;
+font-weight: 200;
+text-align: center;
+font-style: unset;
+}
+
+img{
+    width: 800px;
+    display: block;
+    margin: auto;
+}
+body{
+    background-color: black;
+}
+nav{
+    color: white;
+}

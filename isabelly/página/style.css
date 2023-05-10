@@ -1,0 +1,53 @@
+#título{
+color: white; 
+background-color: black;   
+text-align:center ;
+text-transform: uppercase;
+font-size: 40px;
+font-style: unset;
+}
+body{
+background-image: url(santos-x-flamengo-7.jpg);
+background-size: cover;
+bac
+}
+img{
+display: block;
+margin: auto;
+width: 500px;
+}
+*{
+ margin: 0 auto;   
+ padding: 0 auto;
+ box-sizing: border-box;
+}
+#menu ul li{
+display:inline;
+}
+#menu{
+background-color: white;
+}
+#menu ul li a{
+color: black;
+padding: 20px;
+text-decoration: none;
+display: inline-block;
+}
+#menu ul li a:hover{
+background-color:rgb(41, 40, 40) 
+}
+#menu ul{
+text-align:center ;
+text-transform: uppercase;
+font-style: unset;
+font-weight: bold;
+}
+#jogadores{
+color: black;
+background-color: white;
+text-align: center;
+}
+#lista{
+background-color: white;
+color: black;
+}

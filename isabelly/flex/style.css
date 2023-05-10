@@ -1,0 +1,23 @@
+#container{
+border: 2px solid red;
+display: flex;
+flex-direction: column;
+}
+#titulo{
+display: flex;
+justify-content: center;
+/* text align: center;*/
+}
+#corpo{
+display: flex;
+justify-content: space-around;
+/* border: 1px sold green; */
+}
+#esquerda{
+width: 75%;    
+border: 1px sold black;
+}
+#direito{
+width: 25%;
+border: 1px sold pink;
+}
